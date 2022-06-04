@@ -3,7 +3,7 @@ Opinionated, simple and lightweight android browser based on webview.
 
 *based on* [this repository](https://github.com/badener95/Companion-Browser)
 
-**Zero address bar** Most android users search and navigate to their favorite website from the search result page. Therefore, we have included a shortcut to Google search.
+**Zero address bar** Most android users search and navigate to their favorite website from the search result page. Therefore, we have included a shortcut to Google search.\
 **Zero favorites** Difficult to implement and minimal benefits
 **Zero tabs** We use Windows instead as separate app instances
 **Zero tracking** This app does not spy on users (no metrics, no analytics)
