@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Zero Browser</string>
+    <string name="menu_button">Menu</string>
+    <string name="action_reload">Refresh Page</string>
+    <string name="action_homepage">Zero Home</string>
+    <string name="action_search">Search the Internet</string>
+    <string name="action_permission">Give cam/mic permission</string>
+    <string name="action_share">Share Page</string>
+    <string name="action_new_window">Open new Window</string>
+    <string name="action_open_with_app">Open page in default Browser</string>
+    <string name="action_add_shortcut">Add Shortcut</string>
+    <string name="action_set_night_mode">Choose Mode</string>
+    <string name="action_night_mode_off">Light</string>
+    <string name="action_night_mode_on">Dark</string>
+    <string name="action_night_mode_auto">System default</string>
+    <string name="action_enable_dark_web_content">Apply theme to websites</string>
+    <string name="action_set_start_page">Set custom Startpage</string>
+    <string name="action_clear_data">Clear browsing Data</string>
+    <string name="action_close_window">Close Window</string>
+    <string name="add_shortcut_input_hint">Shortcut name</string>
+    <string name="shortcuts_not_supported">Your launcher does not support shortcuts</string>
+    <string name="set_start_page_hint">Startpage URL</string>
+    <string name="start_page_saved">Startpage saved</string>
+    <string name="clear_data_message">All browsing data including cookies and cache will be cleared</string>
+    <string name="clear_data_confirmation">Browsing data cleared</string>
+    <string name="chooser_share">Share URL</string>
+    <string name="chooser_open_app">Choose app</string>
+    <string name="url_cannot_be_loaded">URL cannot be loaded</string>
+    <string name="download_started">Download started</string>
+    <string name="add">Add</string>
+</resources>
