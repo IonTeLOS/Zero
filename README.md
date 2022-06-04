@@ -11,8 +11,8 @@ Opinionated, simple and lightweight android browser based on webview.
 **Zero ad-blocking** Creators and developers must make a living somehow\
 **Zero in app ads**\
 **Zero in app prompts for rating, permissions etc** If you want to star us do so, we want some spontaneous love. If you want to use camera / microphone you can easily allow that\
-**No geolocation and file access** Safety first! \
+**No geolocation and file access** Safety first! 
 
 Menu : Search, Refresh, Open new window, Share, Add shortcut, Clear browsing data, Set custom Startpage, Dark - Light mode switch, Give cam/mic permission, Open page in default browser (sniff.. my big brother is stronger than me..), Close window  
 
-Get the most of your screen real estate with Zero Browser - download from 
+Get the most of your screen real estate with Zero Browser - download .apk from [here] (https://github.com/IonTeLOS/Zero/releases/download/initial/Zero_Browser-release-v1.0.apk)
