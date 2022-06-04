@@ -15,4 +15,4 @@ Opinionated, simple and lightweight android browser based on webview.
 
 Menu : Search, Refresh, Open new window, Share, Add shortcut, Clear browsing data, Set custom Startpage, Dark - Light mode switch, Give cam/mic permission, Open page in default browser (sniff.. my big brother is stronger than me..), Close window  
 
-Get the most of your screen real estate with Zero Browser - download .apk from [here] (https://github.com/IonTeLOS/Zero/releases/download/initial/Zero_Browser-release-v1.0.apk)
+Get the most of your screen real estate with Zero Browser - download .apk from [here](https://github.com/IonTeLOS/Zero/releases/download/initial/Zero_Browser-release-v1.0.apk)
