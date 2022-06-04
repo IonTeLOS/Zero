@@ -1,17 +1,18 @@
-# Companion Browser
-Lightweight and good looking simple browser to be used along side a more sophisticated browser (hence the name).
+## Zero Browser ##
+Opinionated, simple and lightweight android browser based on webview.
 
-## Features
-* UI at the bottom for better reachability
-* Ad blocking
-* Automatic or manual day/night theme, including the web content
-* Launcher shortcuts
-* Custom start page
+*based on* [this repository](https://github.com/badener95/Companion-Browser)
 
-## Downloads
-Downloads are available from [GitHub](https://github.com/badener95/Companion-Browser/releases/latest)
+**Zero address bar** Most android users search and navigate to their favorite website from the search result page. Therefore, we have included a shortcut to Google search.
+**Zero favorites** Difficult to implement and minimal benefits
+**Zero tabs** We use Windows instead as separate app instances
+**Zero tracking** This app does not spy on users (no metrics, no analytics)
+**Zero notifications** Noone will miss it
+**Zero ad-blocking** Creators and developers must make a living somehow. 
+**Zero in app ads**
+**Zero in app prompts for rating, permissions etc** If you want to star us do so, we want some spontaneous love. If you want to use camera / microphone you can easily allow that
+**No geolocation and file access** Safety first! 
 
-## References
-The code for the ad blocking feature is based on this: https://github.com/AmniX/AdBlockedWebView-Android
+Menu : Search, Refresh, Open new window, Share, Add shortcut, Clear browsing data, Set custom Startpage, Dark - Light mode switch, Give cam/mic permission, Open page in default browser (sniff.. my big brother is stronger than me..), Close window  
 
-The host list for ad blocking by Peter Lowe: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0
+Get the most of your screen real estate with Zero Browser - download from 
